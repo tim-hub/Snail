@@ -1,2 +1,3 @@
-# Snail
-Interactive Tutorial Platform
+# Quasar App
+
+> WIP
